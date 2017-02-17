@@ -8,7 +8,7 @@ This guide explains some core principles for Engineering and Architecture at the
 All services must meet the [Digital Service Standard](https://www.gov.uk/service-manual/service-standard) and follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice).
 
 ## Security
-[Security by design](https://github.com/UKHomeOffice/security-guide-for-developers/wiki) is everybody's responsibility.
+The National Cyber Security Centre outlines [Security Design Principles for Digital Services](https://www.ncsc.gov.uk/guidance/security-design-principles-digital-services-main). Our [security guide for developers](https://github.com/UKHomeOffice/security-guide-for-developers/wiki) details specific recommendations.
 
 ## Testing
 [Automated Testing](https://github.com/UKHomeOffice/testing-guide-for-developers) is integral to modern software development.
