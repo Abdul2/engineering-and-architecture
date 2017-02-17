@@ -1,4 +1,4 @@
-# Home Office Engineering and Architecture guide 
+# Home Office Engineering and Architecture 
 
 This guide explains some core principles for Engineering and Architecture at the Home Office.
 
