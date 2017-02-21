@@ -3,7 +3,7 @@
 This guide explains the fundamental principles for Engineering and Architecture at the Home Office.
 
 ## Core principles
-See our [core principles](/principles.md)
+All services must follow our [core principles](/principles.md)
 
 ## GDS service standard and code of practice
 All services must meet the [Digital Service Standard](https://www.gov.uk/service-manual/service-standard) and follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice).
