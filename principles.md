@@ -29,7 +29,9 @@
 ## <a name="vendor-lock-in"></a>3 Avoid vendor lock-in
 xxx
 
-## <a name="twelve-factor"></a>4 Twelve-factor app
+## <a name="twelve-factor"></a>4 Twelve Factor App
+The [Twelve Factor App](https://12factor.net/) is a methodology for building software as a service. The twelve factors are:
+
 1. One app per repository
     - all code is in a repository such as git
     - multiple apps sharing the same code is a violation
@@ -48,7 +50,7 @@ xxx
 5. Separate build, release and run stages
     - building converts code into executable bundle. Commit version + dependencies  -> compiled binaries + assets
     - a release combines executable bundle with deploy config and should have a unique releaseId. A release is immutable
-    - running launches an app against the release; you cannot change code here
+    - running launches an app against the release
 6. Stateless processes
     - processes are stateless (temporary storage for a single request is ok) and share nothing
     - if persistent storage is required, use a backing service
