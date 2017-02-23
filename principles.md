@@ -7,7 +7,7 @@
 |2|Follow [Domain Driven Design](#ddd)|11|Services designed around [user needs](#user-needs)
 |3|Minimise [vendor lock-in](#vendor-lock-in)|12|Build for [modern web browsers](#modern-browser-first) and don't build mobile apps
 |4|Services built as [twelve factor](#twelve-factor) apps|13|Information is an [asset with an owner](#iao)
-|5|[Loosely coupled](#loosely-coupled) services over monoliths|14|[Follow our standards] (#follow-standards) for languages, frameworks, techniques and tools
+|5|[Loosely coupled](#loosely-coupled) services over monoliths|14|Follow [our standards] (#follow-standards) for languages, frameworks, techniques and tools
 |6|[Shared services](#shared-services) over shared code|15|[Commodity cloud](#commodity-cloud) first
 |7|[Cooperative architecture](#cooperative-architecture) over siloed architecture|16|Use our [common platforms](#common-platforms)
 |8|[Secure systems](#secure-systems) over secure zones|17|[Open](#open) standards, open data, open source
@@ -48,7 +48,7 @@ xxx
 xxx
 
 ## <a name="cd"></a>10 Continous Delivery
-xxx
+Build the expectation of regular updates (on a scale of minutes, not days or weeks) into your release process to ensure that changes are repeatable, reliable, and fast. Only by releasing often can you become good at releases, and make them low risk. By having long change processes to follow, the team (and service) become change-averse, and change becomes difficult and dangerous.
 
 ## <a name="user-needs"></a>11 User Needs
 xxx
@@ -63,7 +63,7 @@ xxx
 xxx
 
 ## <a name="commodity-cloud"></a>15 Commodity Cloud
-xxx
+Public cloud, provided at scale by commercial technology companies has emerged as the lowest risk environment for our information systems to reside. 
 
 ## <a name="common-platforms"></a>16 Common Platforms
 xxx
