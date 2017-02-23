@@ -32,7 +32,7 @@ Each assessment has a technical component; the categories are:
 ## <a name = "tools-and-systems"/>Evaluate what tools and systems will be used to build, host, operate and measure the service
 
 - explain how you decided to use the development tools, languages, frameworks, databases etc.;
-- has the service had technical design sign-off at appropriate milestones? Is the tech stack and hosting solution aligned with HOD strategy?
+- has the service had technical design sign-off at appropriate milestones? Is the tech stack and hosting solution aligned with the organisation's strategy?
 - what have you done to see whether any tech and services you require can be reused from across the Home Office and wider Government?
 - how have you avoided vendor lock-in?
 - how are you managing the constraints that the selection of technology stack places on you?
@@ -82,4 +82,4 @@ Each assessment has a technical component; the categories are:
 - what disaster recovery do you have? active-active or active-passive?
 - what things are most likely to take you offline and what mitigations you are considering?
 - what is your strategy for dealing with an incident and who is responsible for doing this?
-- how did you evaluate what support arrangements are needed, and what arrangements have you got in place? Is this aligned with HOD’s solution for support?
+- how did you evaluate what support arrangements are needed, and what arrangements have you got in place? Is this aligned with the organisation's solution for support?
