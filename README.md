@@ -1,5 +1,5 @@
 ## Engineering and Architecture principles
-All services must follow our [core principles](/principles.md)
+All services must follow our [core principles](/principles)
 
 ## GDS service standard and code of practice
 All services must meet the [Digital Service Standard](https://www.gov.uk/service-manual/service-standard) and follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice).
