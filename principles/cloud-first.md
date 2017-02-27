@@ -23,5 +23,5 @@ The table below shows cloud native maturity. You should strive at least for leve
 
 ## References and further reading
 
-[Cloud native application security model](http://www.nirmata.com/2015/03/cloud-native-application-maturity-model/)
+[Cloud native application maturity model](http://www.nirmata.com/2015/03/cloud-native-application-maturity-model/)
 
