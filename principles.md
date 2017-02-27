@@ -1,1 +1,1 @@
-This page [has moved](/principles)
+The principles page [has moved](/principles)
