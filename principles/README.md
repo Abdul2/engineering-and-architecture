@@ -18,5 +18,5 @@
 1. Follow [our standards] (standards.md) for languages, frameworks, techniques and tools
 1. [Commodity cloud](cloud-first.md) first
 1. Use our [common platforms](#common-platforms)
-1. [Open](#open) standards, open data, open source
+1. [Open](open.md) standards, open data, open source
 1. Build for [operational readiness](#operational-readiness)
