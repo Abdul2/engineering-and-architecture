@@ -6,7 +6,7 @@ All services must meet the [Digital Service Standard](https://www.gov.uk/service
 All services will be [assessed](/assessment.md) at various stages. 
 
 ## Hosting Platform
-Our [hosting platform](https://github.com/UKHomeOffice/hosting-platform) is built upon Docker and Kubernetes.
+Our [hosting platform](https://github.com/UKHomeOffice/hosting-platform) is built upon Docker and Kubernetes. known as the Digital Service Platform (DSP), the platform is the Home Office default hosting platform. Its use is governed by a set of clear use principles (https://github.com/UKHomeOffice/engineering-and-architecture/blob/master/principles/dspuseprinciples.md)
 Our [technical service requirements](https://github.com/UKHomeOffice/technical-service-requirements) must always be followed.
 The [platform developer guide](https://github.com/UKHomeOffice/hosting-platform/blob/master/developer-docs/README.md) describes how to use its components.
 
